@@ -10,7 +10,6 @@ export default function Home() {
     margin: "0 auto",
     padding: "48px 20px",
     lineHeight: 1.65,
-    background: "#020617",
     color: "#e5e7eb",
   };
 
