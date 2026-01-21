@@ -165,7 +165,7 @@ export default function Home() {
         </div>
 
         {/* Unit 8200 */}
-        <h3 style={{ marginTop: 28 }}>Unit 8200, IDF (2021–2024)</h3>
+        <h3 style={{ marginTop: 28 }}>Unit 8200, IDF (2021–2025)</h3>
         <p style={{ color: "#cbd5f5", marginTop: 4 }}>
           <strong>Intelligence Analyst → Team Leader</strong>
         </p>
